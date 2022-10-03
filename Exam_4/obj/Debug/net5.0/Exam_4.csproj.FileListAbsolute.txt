@@ -1,0 +1,16 @@
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\Exam_4.exe
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\Exam_4.deps.json
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\Exam_4.runtimeconfig.json
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\Exam_4.runtimeconfig.dev.json
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\Exam_4.dll
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\ref\Exam_4.dll
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\bin\Debug\net5.0\Exam_4.pdb
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.csproj.AssemblyReference.cache
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.AssemblyInfoInputs.cache
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.AssemblyInfo.cs
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.csproj.CoreCompileInputs.cache
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.dll
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\ref\Exam_4.dll
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.pdb
+D:\CSharp\claswork\exam_4_oleg_kogay\Exam_4\Exam_4\obj\Debug\net5.0\Exam_4.genruntimeconfig.cache

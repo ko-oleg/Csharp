@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Name": "oleg",
+    "Age": 1,
+    "LevelSatiety": 79,
+    "LevelMood": 87,
+    "LevelHealth": 39,
+    "PlusRank": 7,
+    "MinusRank": 3,
+    "Action": "*"
+  },
+  {
+    "Id": 2,
+    "Name": "vika",
+    "Age": 20,
+    "LevelSatiety": 67,
+    "LevelMood": 20,
+    "LevelHealth": 33,
+    "PlusRank": 4,
+    "MinusRank": 6,
+    "Action": " "
+  }
+]
